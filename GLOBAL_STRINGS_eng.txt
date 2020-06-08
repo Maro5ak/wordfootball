@@ -1,0 +1,6 @@
+Welcome to the Football game!!
+____________________________________________________________
+Start the game by typing in your word!
+To exit type "!q"
+>
+Wrong word, you lose.

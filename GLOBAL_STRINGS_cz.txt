@@ -1,0 +1,6 @@
+Vítej ve Slovním Fotbale!!
+____________________________________________________________
+Hru začneš napsáním prvního slova!
+Pro vypnutí napiš "!q"
+>
+Špatné slovo, prohrál jsi.
